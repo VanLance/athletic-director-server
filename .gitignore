@@ -1,0 +1,24 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build directories
+bin/
+obj/
+
+# Temporary files
+*.log
+*.tmp
+
+# Debug and release directories
+Debug/
+Release/
+
+# Exclude package-related files (optional)
+packages/
+*.nupkg
+
+# System-specific files
+Thumbs.db
+desktop.ini
