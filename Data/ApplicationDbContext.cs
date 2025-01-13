@@ -1,4 +1,4 @@
-﻿using Athletic_Director.Server.Models;
+﻿using Athletic_Director.Server.Models.User;
 using Microsoft.EntityFrameworkCore;
 
 namespace Athletic_Director.Server.Data

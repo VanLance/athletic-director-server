@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Athletic_Director.Server.Data;
-using Athletic_Director.Server.Models;
+using Athletic_Director.Server.Models.User;
 
 namespace Athletic_Director.Server.Repositories
 {

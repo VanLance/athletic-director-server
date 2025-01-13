@@ -1,4 +1,4 @@
-﻿namespace Athletic_Director.Server.Models
+﻿namespace Athletic_Director.Server.Models.User
 {
     public class User
     {
